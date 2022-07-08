@@ -1,1 +1,2 @@
-# jurnale
+# Jurnale
+## Aplikasi Jurnal Mengajar
